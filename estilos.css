@@ -1,0 +1,23 @@
+h1{
+    font-style: italic;
+    text-align: center;
+}
+body{
+    background-color: rgb(128, 134, 134);
+    font-family: 'Times New Roman', Times, serif;
+}
+#ocupacion{
+    background-color: turquoise;
+}
+
+a:link{
+    color:wheat;
+    font-weight: bold;
+}
+a:hover{
+    color:yellowgreen;
+}
+article{
+    border: 2px solid white;
+    border-radius: 5px;
+}
